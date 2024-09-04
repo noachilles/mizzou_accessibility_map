@@ -2,7 +2,7 @@
 KF글로벌챌린저 아카데미 개인 연구/🗺️edit mizzou accessibility map
 
 👥**팀 구성**: 개인
-🧰**stacks**: ```JavaScript``` ```HTML``` ````CSS``` ```GoogleMaps API```  
+🧰**stacks**: ```JavaScript``` ```HTML``` ```CSS``` ```GoogleMaps API```  
 
 ## 기획 의도
 * 교내 사회적 소수자를 위한 Online Accessibility Map을 조사하던 중 필요한 UI/UX 개선 필요성을 느낌 
@@ -80,6 +80,6 @@ function buildContent(property) {
 * 이외 버거메뉴 사용, zoom 기능 추가 및 아이콘 사용으로 사용자 편의를 고려해 디자인된 웹사이트를 제공
 
 ## 수정 결과  
-![fig1](https://github.com/user-attachments/assets/20158465-3806-42ea-bebc-cdf8522be3ad)
-![fig2](https://github.com/user-attachments/assets/1663e73b-ca0b-4ad5-bab9-794bcaf25401)
+<img src="https://github.com/noachilles/mizzou_accessibility_map/blob/main/assets/video1.gif">
+<img src="https://github.com/noachilles/mizzou_accessibility_map/blob/main/assets/video2.gif">
 <div align="center"> fig 2. 위: 기존 디지털 지도 접속 후 표시창, 아래: 제안한 디지털 지도 접속 후 표시창 (동일 배속)</div>
