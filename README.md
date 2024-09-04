@@ -80,6 +80,6 @@ function buildContent(property) {
 * 이외 버거메뉴 사용, zoom 기능 추가 및 아이콘 사용으로 사용자 편의를 고려해 디자인된 웹사이트를 제공
 
 ## 수정 결과  
-<img src="https://github.com/noachilles/mizzou_accessibility_map/blob/main/assets/video1.gif">
-<img src="https://github.com/noachilles/mizzou_accessibility_map/blob/main/assets/video2.gif">
+<div align="center"><img src="https://github.com/noachilles/mizzou_accessibility_map/blob/main/assets/video1.gif"></div>
+<div align="center"></div><img src="https://github.com/noachilles/mizzou_accessibility_map/blob/main/assets/video2.gif"></div>
 <div align="center"> fig 2. 위: 기존 디지털 지도 접속 후 표시창, 아래: 제안한 디지털 지도 접속 후 표시창 (동일 배속)</div>
