@@ -1,0 +1,82 @@
+<!doctype html>
+<!--
+  @license
+  Copyright 2019 Google LLC. All Rights Reserved.
+  SPDX-License-Identifier: Apache-2.0
+-->
+<!-- [START maps_advanced_markers_html] -->
+<html>
+  <head>
+    <title>Advanced Markers with HTML</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script src="https://use.fontawesome.com/releases/v6.2.0/js/all.js"></script>
+
+    <!-- sample -->
+    <link rel="stylesheet" type="text/css" href="./sample.css" />
+    <script type="module" src="./sample.js"></script>
+    <!-- burger+checkbox -->
+    <link rel="stylesheet" href="./burger.css" />
+  </head>
+  <body>
+    <nav role="navigation">
+      <div id="menuToggle">
+      <!--
+      A fake / hidden checkbox is used as click reciever,
+      so you can use the :checked selector on it.
+      -->
+      <input type="checkbox"
+      class="burger" />
+      
+      <!--
+      Some spans to act as a hamburger.
+      
+      They are acting like a real hamburger,
+      not that McDonalds stuff.
+      -->
+      <span></span>
+      <span></span>
+      <span></span>
+      
+      <!--
+      Too bad the menu has to be inside of the button
+      but hey, it's pure CSS magic.
+      -->
+      <ul id="menu">
+          <li><input id="accessible-door" 
+              type="checkbox"
+              value="Accessible Door"
+              checked/>Accessible Door</li>
+          <li><input id="auto-door" 
+              type="checkbox"
+              value="Auto Door"
+              checked/>Auto Door</li>
+          <li><input id="ramps" 
+              type="checkbox"
+              value="Ramps"/>Ramps</li>
+          <li><input id="elevators" 
+              type="checkbox"
+              value="elevators"/>Elevators</li>
+          <li><input id="chair-lifts" 
+              type="checkbox"
+              value="chair-lifts"/>Chair Lifts</li>
+          <li><input id="curbcuts" 
+              type="checkbox"
+              value="Curbcuts"/>Curbcuts</li>
+          <li><input id="crosswalks" 
+              type="checkbox"
+              value="crosswalks"/>Crosswalks</li>
+          <li><input id="video-phones" 
+              type="checkbox"
+              value="video-phones"/>Video Phones</li>
+          <a href="#"><li>About</li></a>
+      </ul>
+      </div>      
+    </nav>
+    <div id="map"></div>
+
+    <!-- prettier-ignore -->
+    <script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+        ({key: "AIzaSyDiiR6NaCmuKWEEDBOn73bRdZt1Z6xKVuA", v: "weekly"});</script>
+  </body>
+</html>
+<!-- [END maps_advanced_markers_html] -->

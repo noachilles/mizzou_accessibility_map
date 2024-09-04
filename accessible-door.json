@@ -1,0 +1,467 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32692233677278,
+            38.944258707114045
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32686309209988,
+            38.94423950794095
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32686556062771,
+            38.9441703908756
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32591680114702,
+            38.944502805116514
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32474983948433,
+            38.94422334433622
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.3251384923581,
+            38.9449494040247
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32513711087296,
+            38.945094595185566
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.3237346432198,
+            38.9443993959101
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32351726704088,
+            38.94461650594937
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.3236982926643,
+            38.944726439429786
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32427220483186,
+            38.945117550684074
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32417295424754,
+            38.94395187676483
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32420931003199,
+            38.943109048752035
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32439611558557,
+            38.94293704198489
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32429412592654,
+            38.94293567431714
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.3249748195719,
+            38.942803503335966
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32503073221959,
+            38.94257273787798
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32487247240392,
+            38.94258231160194
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32425914227048,
+            38.94261574664668
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32383499751028,
+            38.94291681188449
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32325002093256,
+            38.943165478817065
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32306575279188,
+            38.94281818950728
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32265647644232,
+            38.943069951628814
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32298528640236,
+            38.94188364448004
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32305299132777,
+            38.94147351186817
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.3228204831713,
+            38.94170396410817
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32282243619592,
+            38.941591555423145
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.322779469748,
+            38.94153383202371
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32281657721899,
+            38.94149433700582
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32278315169833,
+            38.941734729529884
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32738816022461,
+            38.94379176514124
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.3272851238472,
+            38.94378855962631
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.326594866281,
+            38.94290884301864
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32714650611791,
+            38.94233381499822
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.3261575386488,
+            38.94237357256404
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32605862372661,
+            38.94237357256404
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32593821739938,
+            38.942515902707754
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32590236781414,
+            38.94280921887861
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32515056218865,
+            38.941109748936015
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32484392908901,
+            38.941179653162436
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32469744269783,
+            38.94205449996602
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "accessDoor",
+        "properties": {},
+        "geometry": {
+          "coordinates": [
+            -92.32403923924157,
+            38.94188796657272
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
