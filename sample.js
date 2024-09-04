@@ -61,7 +61,7 @@ async function initMap() {
   map = new Map(document.getElementById("map"), {
     zoom: 18,
     center,
-    mapId: "c1a096b777b988c9",
+    mapId: "mapID",
     // 기본 제공 UI 모두 제거
     disableDefaultUI: true,
   });

@@ -1,6 +1,5 @@
 # mizzou_accessibility_map
 KF글로벌챌린저 아카데미 개인 연구/🗺️edit mizzou accessibility map
-(2023년 8월 ~ 2024년 1월)
 
 👥**팀 구성**: 개인
 🧰**stacks**: ```JavaScript``` ```HTML``` ````CSS``` ```GoogleMaps API```  
@@ -11,7 +10,7 @@ KF글로벌챌린저 아카데미 개인 연구/🗺️edit mizzou accessibility
 
 ## 제작 과정  
 ### GoogleMaps API 활용  
-* API를 활용해 서버 안정화와 기본적인 UI 문제를 해결할 수 있었음  
+ 
 
 ### UI 수정  
 
